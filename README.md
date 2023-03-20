@@ -1,4 +1,4 @@
-# 30DaysOfScala
+# IntroToScala
 
 Scala is a general-purpose programming language designed to run on the Java Virtual Machine (JVM) and to be highly scalable. It combines functional programming and object-oriented programming paradigms to provide a concise, expressive, and type-safe language. Scala is strongly influenced by Java, but it also borrows ideas from other programming languages such as Haskell, ML, and Ruby.
 
